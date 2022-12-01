@@ -10,8 +10,8 @@ module.exports = {
       xl: '1440px',
     },
     backgroundImage: {
-      'marquee-desktop': "url('https://3396890.fs1.hubspotusercontent-na1.net/hubfs/3396890/Pelco/Landing%20Pages/corner-security-cameras/4.%20Web%20Landing%20Page%201440x600%20Fixed%20Corner%20Camera.jpg')",
-      'marquee-mobile': "url('https://3396890.fs1.hubspotusercontent-na1.net/hubfs/3396890/Pelco/Landing%20Pages/corner-security-cameras/4.%20Web%20Landing%20Page%20420x576%20Fixed%20Corner%20Camera.jpg')"
+      'marquee-desktop': "url('https://3396890.fs1.hubspotusercontent-na1.net/hubfs/3396890/Pelco/Landing%20Pages/corner-security-cameras/5.%20Corner%20Camera%20Desktop.jpg')",
+      'marquee-mobile': "url('https://3396890.fs1.hubspotusercontent-na1.net/hubfs/3396890/Pelco/Landing%20Pages/corner-security-cameras/5.%20Corner%20Camera%20Mobile.jpg')"
     },
     extend: {
       colors: {
